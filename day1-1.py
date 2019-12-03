@@ -1,4 +1,4 @@
-print('advent of code')
+print('advent of code day 1 part 1')
 
 f = open("input", "r")
 
